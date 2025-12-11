@@ -5,7 +5,7 @@ Quantifying the Venezuelan 'Shadow State': A Python-based forensic audit applyin
 ## 1. Executive Summary
 This project applies **Graph Theory (NetworkX)** and **Forensic Data Analysis (Benford's Law)** to validate open-source intelligence regarding the command structure of the Venezuelan regime. 
 
-[cite_start]Using the December 2025 testimony of Clíver Alcalá Cordones (Ret. Major General) as the primary dataset[cite: 128], this analysis quantifies "Command Authority" and tests for statistical anomalies in electoral data mechanisms.
+Using the December 2025 testimony of Clíver Alcalá Cordones (Ret. Major General) as the primary dataset[cite: 128], this analysis quantifies "Command Authority" and tests for statistical anomalies in electoral data mechanisms.
 
 ## 2. Strategic Objectives
 * **Quantify Influence:** Move beyond static organizational charts to measure dynamic power using centrality algorithms.
